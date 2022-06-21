@@ -226,8 +226,8 @@ p {
   height: 3px;
   margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  background-color: #142cff;
+  transition: all 0.5s ease-in-out;
+  background-color: #262626;
 }
 
 @media(max-width:768px){
